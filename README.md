@@ -1,4 +1,3 @@
-# Računalniški praktikum
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
